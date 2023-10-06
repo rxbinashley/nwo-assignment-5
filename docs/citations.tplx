@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Robin Kuipers, Benjamin Kuus}
+((* endblock author *))
+
+((* block title *))
+\title{Assignment 5}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{unsrt}
+\bibliography{references}
+((* endblock bibliography *))
